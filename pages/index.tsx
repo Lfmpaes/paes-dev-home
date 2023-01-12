@@ -28,7 +28,7 @@ export default function Home() {
             </div>
             {/* Header End */}
 
-            <div className="links bg-indigo-7000 container items-center flex flex-col mx-auto p-2">
+            <div className="links bg-indigo-7000 container items-center flex flex-col mx-auto p-2 pb-8">
                 <button className="rounded-lg bg-[#1da1f2] text-white m-2 p-1 pr-3 pl-3 w-80 h-12 text-xl font-bold">
                     Twitter
                 </button>
