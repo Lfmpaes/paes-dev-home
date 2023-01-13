@@ -72,7 +72,7 @@ export default function Home() {
                     <Link
                         href={'https://github.com/Lfmpaes'}
                         className="rounded-md bg-black m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
-                        <div className="flex justify-center ">
+                        <div className="flex items-center">
                             <Image
                                 src="/github-white.svg"
                                 alt="GitHub logo"
@@ -89,7 +89,7 @@ export default function Home() {
                     <Link
                         href={'https://twitch.tv/Lfmpaes'}
                         className="rounded-md bg-[#9146ff] m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
-                        <div className="flex justify-center ">
+                        <div className="flex items-center">
                             <Image
                                 src="/twitch-white.svg"
                                 alt="Twitch logo"
@@ -106,7 +106,7 @@ export default function Home() {
                     <Link
                         href={'https://youtube.com/Lfmpaes'}
                         className="rounded-md bg-black m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
-                        <div className="flex justify-center ">
+                        <div className="flex items-center">
                             <Image
                                 src="/YouTube.svg"
                                 alt="YouTube logo"
@@ -123,7 +123,7 @@ export default function Home() {
                     <Link
                         href={'https://linkedin.com/in/Lfmpaes'}
                         className="rounded-md bg-[#2867b2] m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
-                        <div className="flex justify-center ">
+                        <div className="flex items-center">
                             <Image
                                 src="/linkedin-white.svg"
                                 alt="LinkedIn logo"
@@ -140,7 +140,7 @@ export default function Home() {
                     <Link
                         href={'https://music.apple.com/profile/Lfmpaes'}
                         className="rounded-md bg-white m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
-                        <div className="flex justify-center ">
+                        <div className="flex items-center">
                             <Image
                                 src="/Apple Music.svg"
                                 alt="Apple Music logo"
