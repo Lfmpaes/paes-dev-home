@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Image from 'next/image';
 import { Inter } from '@next/font/google';
 import Link from 'next/link';
+import SocialButton from '../components/SocialButton';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -30,6 +31,10 @@ export default function Home() {
 
                 <div className="links bg-indigo-7000 container items-center flex flex-col mx-auto p-2 pb-8">
                     {/*  */}
+                    {/* <SocialButton
+                        url="https://twitter.com/Lfmpaes"
+                        bgColor="[#1da1f2]"
+                    /> */}
                     <Link
                         href={'https://twitter.com/Lfmpaes'}
                         className="rounded-lg bg-[#1da1f2] m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
@@ -103,7 +108,7 @@ export default function Home() {
                         className="rounded-md bg-black m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
                         <div className="flex justify-center ">
                             <Image
-                                src="/youtube-red.svg"
+                                src="/YouTube.svg"
                                 alt="YouTube logo"
                                 width={24}
                                 height={24}
@@ -137,7 +142,7 @@ export default function Home() {
                         className="rounded-md bg-white m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
                         <div className="flex justify-center ">
                             <Image
-                                src="/applemusic-red.svg"
+                                src="/Apple Music.svg"
                                 alt="Apple Music logo"
                                 width={20}
                                 height={20}
