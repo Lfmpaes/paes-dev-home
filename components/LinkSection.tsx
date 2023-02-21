@@ -99,6 +99,8 @@ export default function LinkSection() {
                 </div>
             </Link>
 
+            {/* #2c3440 */}
+
             <Link
                 href={'https://music.apple.com/profile/Lfmpaes'}
                 className="rounded-md bg-white m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
@@ -113,6 +115,21 @@ export default function LinkSection() {
                     <p className="text-[#fa425a] text-xl font-bold">
                         Apple Music
                     </p>
+                </div>
+            </Link>
+
+            <Link
+                href={'https://letterboxd.com/Lfmpaes/'}
+                className="rounded-md bg-[#2c3440] m-2 p-1 pr-3 pl-3 w-80 h-12 flex justify-center">
+                <div className="flex items-center">
+                    <Image
+                        src="/letterboxd.svg"
+                        alt="GitHub logo"
+                        width={20}
+                        height={20}
+                        className="mr-2 mt-"
+                    />
+                    <p className="text-white text-xl font-bold">Letterboxd</p>
                 </div>
             </Link>
         </div>
