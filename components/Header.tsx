@@ -6,7 +6,7 @@ export default function Header() {
             <Image
                 className="rounded-full"
                 src={
-                    'https://pbs.twimg.com/profile_images/1616965763415392257/gkhYR9_8.jpg'
+                    'https://media.licdn.com/dms/image/D4D03AQH6OTDsmRAxYQ/profile-displayphoto-shrink_800_800/0/1686540512048?e=1692230400&v=beta&t=66S0Y4-Qpek5EIIQvGP8uuCqjboyvM6-Sgn56DqH04o'
                 }
                 width={128}
                 height={128}
