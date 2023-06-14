@@ -19,7 +19,7 @@ export default function Home() {
                 />
                 <link
                     rel="shortcut icon"
-                    href="https://pbs.twimg.com/profile_images/1616965763415392257/gkhYR9_8.jpg"
+                    href="https://media.licdn.com/dms/image/D4D03AQH6OTDsmRAxYQ/profile-displayphoto-shrink_800_800/0/1686540512048?e=1692230400&v=beta&t=66S0Y4-Qpek5EIIQvGP8uuCqjboyvM6-Sgn56DqH04o"
                     type="image/x-icon"
                 />
                 <meta
