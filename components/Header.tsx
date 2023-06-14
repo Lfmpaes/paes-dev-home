@@ -6,7 +6,7 @@ export default function Header() {
             <Image
                 className="rounded-full"
                 src={
-                    'https://media.licdn.com/dms/image/D4D03AQH6OTDsmRAxYQ/profile-displayphoto-shrink_800_800/0/1686540512048?e=1692230400&v=beta&t=66S0Y4-Qpek5EIIQvGP8uuCqjboyvM6-Sgn56DqH04o'
+                    'https://scontent.fcgh14-1.fna.fbcdn.net/v/t39.30808-6/354052608_23871600895764131_1431833224345519933_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gjBgJOVXSesAX_0ytYf&_nc_ht=scontent.fcgh14-1.fna&oh=00_AfB31WYJPuPOYw3k0riKW-ksFnadoFZ_RUbN0FinMlWbdg&oe=648ED08F'
                 }
                 width={128}
                 height={128}
